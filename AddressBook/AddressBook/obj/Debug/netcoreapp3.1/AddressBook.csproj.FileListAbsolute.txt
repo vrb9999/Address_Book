@@ -1,0 +1,14 @@
+D:\RFP\Address_Book\AddressBook\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.exe
+D:\RFP\Address_Book\AddressBook\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+D:\RFP\Address_Book\AddressBook\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+D:\RFP\Address_Book\AddressBook\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+D:\RFP\Address_Book\AddressBook\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.dll
+D:\RFP\Address_Book\AddressBook\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.pdb
+D:\RFP\Address_Book\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.AssemblyReference.cache
+D:\RFP\Address_Book\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Address_Book\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+D:\RFP\Address_Book\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+D:\RFP\Address_Book\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+D:\RFP\Address_Book\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
+D:\RFP\Address_Book\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
+D:\RFP\Address_Book\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
